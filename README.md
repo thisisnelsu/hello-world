@@ -1,0 +1,1 @@
+Esse repositório trata-se de um exercício pedido à Cubos Academy para que eu aprenda a utilizar as ferramentas de um Dev.
